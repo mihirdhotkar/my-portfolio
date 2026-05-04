@@ -123,7 +123,7 @@ export default function Portfolio() {
       aspectRatio: "9/16",
     },
       {
-      title: "UAE Anthem (Yall Cricket)- Vardhaman",
+      title: "UAE Anthem (Yalla Cricket)- Vardhaman",
       videoPath: "/yalla-cricket.mp4",
       videoPreview: "/yalla-cricket.mp4",
       description: "Add your project description here",
