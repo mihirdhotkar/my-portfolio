@@ -100,8 +100,8 @@ export default function Portfolio() {
     },
     {
       title: "Burger bar",
-      videoPath: "/burgerbar.mp4",
-      videoPreview: "/burgerbar.mp4",
+      videoPath: "/burger_bar_main.mp4",
+      videoPreview: "/burger_bar_main.mp4",
       description: "Add your project description here",
       tags: ["Tag 1", "Tag 2", "Tag 3"],
       aspectRatio: "9/16",
