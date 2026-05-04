@@ -423,7 +423,7 @@ export default function Portfolio() {
           >
             <video
               ref={videoRef}
-              src="/mihir-edit.mp4"
+              src="/videos/mihir-edit.mp4"
               autoPlay
               loop
               muted
